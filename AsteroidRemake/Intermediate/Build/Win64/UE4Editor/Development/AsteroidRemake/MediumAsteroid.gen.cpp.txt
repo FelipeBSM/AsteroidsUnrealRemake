@@ -1,0 +1,31 @@
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Definitions.AsteroidRemake.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake/MediumAsteroid.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake\BigAsteroid.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundNode.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundCue.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\BigAsteroid.generated.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\MediumAsteroid.generated.h

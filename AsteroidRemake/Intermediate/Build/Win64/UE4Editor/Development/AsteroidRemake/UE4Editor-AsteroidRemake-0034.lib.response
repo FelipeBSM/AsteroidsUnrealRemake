@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AsteroidRemake-0034.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\AsteroidRemakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\AsteroidRemake.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\AsteroidRemakeGameModeBase.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\BoundsTeleportComponent.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\BoundTeleportComponent.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Bullet.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\ObjectTeleportComponent.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\ShipHealth.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\ShipPlayer.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\AsteroidRemake.init.gen.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\AsteroidRemakeGameModeBase.gen.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\BoundsTeleportComponent.gen.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\BoundTeleportComponent.gen.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Bullet.gen.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\ObjectTeleportComponent.gen.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\ShipPlayer.gen.cpp.obj"
+"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Default.rc2.res"
+/OUT:"C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\UE4Editor-AsteroidRemake-0034.lib"

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AsteroidRemake.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{425EBCA1-CABE-4773-A4C6-551D529B829A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AsteroidRemake.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AsteroidRemakeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CE2DEC78-C58E-4FF8-BA1B-7271883719BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AsteroidRemake">
+      <UniqueIdentifier>{5E8CC4A1-F7B1-4496-A399-6C3DC1EE25CE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AsteroidRemake\AsteroidRemake.Build.cs">
+      <Filter>Source\AsteroidRemake</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AsteroidRemake\AsteroidRemake.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\AsteroidRemake.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\AsteroidRemakeGameModeBase.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\AsteroidRemakeGameModeBase.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\BigAsteroid.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\BigAsteroid.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\BoundsTeleportComponent.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\BoundsTeleportComponent.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\BoundTeleportComponent.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\BoundTeleportComponent.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\Bullet.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\Bullet.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\MediumAsteroid.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\MediumAsteroid.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\ObjectTeleportComponent.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\ObjectTeleportComponent.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\ShipHealth.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\ShipHealth.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AsteroidRemake\ShipPlayer.cpp">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AsteroidRemake\ShipPlayer.h">
+      <Filter>Source\AsteroidRemake</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,38 @@
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Definitions.AsteroidRemake.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake/ShipPlayer.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ArrowComponent.generated.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake\Bullet.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake\ObjectTeleportComponent.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\ObjectTeleportComponent.generated.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\Bullet.generated.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake\ShipHealth.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\ShipPlayer.generated.h

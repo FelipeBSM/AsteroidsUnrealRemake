@@ -1,0 +1,643 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+Stats thread started at 0.503155
+ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+Loading text-based GConfig....
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin LiveLink
+Mounting plugin LightPropagationVolume
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin OodleData
+Mounting plugin OodleNetwork
+Mounting plugin AnimationSharing
+Mounting plugin GameplayCameras
+Mounting plugin CameraShakePreviewer
+Mounting plugin AISupport
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin AssetManagerEditor
+Mounting plugin PlasticSourceControl
+Mounting plugin PluginUtils
+Mounting plugin PixWinPlugin
+Mounting plugin PropertyAccessNode
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin SubversionSourceControl
+Mounting plugin DatasmithContent
+Mounting plugin TextureFormatOodle
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin CryptoKeys
+Mounting plugin CurveEditorTools
+Mounting plugin DataValidation
+Mounting plugin GeometryMode
+Mounting plugin AlembicImporter
+Mounting plugin Niagara
+Mounting plugin BackChannel
+Mounting plugin FacialAnimation
+Mounting plugin GameplayTagsEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin MaterialAnalyzer
+Mounting plugin VariantManagerContent
+Mounting plugin SpeedTreeImporter
+Mounting plugin AutomationUtils
+Mounting plugin ChaosCloth
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosEditor
+Mounting plugin PluginBrowser
+Mounting plugin ChaosNiagara
+Mounting plugin ChaosSolverPlugin
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin LuminPlatformFeatures
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin MagicLeap
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin ActorSequence
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin MagicLeapMedia
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin ImgMedia
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin TemplateSequence
+Mounting plugin GeometryProcessing
+Mounting plugin MLSDK
+Mounting plugin MotoSynth
+Mounting plugin OpenImageDenoise
+Mounting plugin PlatformCrypto
+Mounting plugin ProxyLODPlugin
+Mounting plugin PlanarCut
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin LauncherChunkInstaller
+Mounting plugin ActorLayerUtilities
+Mounting plugin SkeletalReduction
+Mounting plugin PythonScriptPlugin
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidPermission
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AppleImageUtils
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AssetTags
+Mounting plugin AudioCapture
+Mounting plugin AudioSynesthesia
+Mounting plugin ChunkDownloader
+Mounting plugin CustomMeshComponent
+Mounting plugin CableComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GooglePAD
+Mounting plugin GoogleCloudMessaging
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OpenXR
+Mounting plugin OpenXRHandTracking
+Mounting plugin OpenXREyeTracker
+Mounting plugin PhysXVehicles
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PropertyAccessEditor
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SoundFields
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ScreenshotTools
+Mounting plugin Takes
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin ContentBrowserFileDataSource
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OculusVR
+Mounting plugin SteamVR
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+OculusPlugin initialized successfully
+Failed initializing OVRPlugin 1.59.0
+Build: ++UE4+Release-4.27-CL-18319896
+Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+Net CL: 17155196
+OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3060
+Compiled (64-bit): Nov 30 2021 07:12:08
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.27
+Command Line: 
+Base Directory: D:/FORTNITE/UE_4.27/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[r.VSync:0]]
+Setting CVar [[r.RHICmdBypass:0]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 32 GB [34273357824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Editor.ini]
+Computer: DESKTOP-V6GCTTP
+User: home
+CPU Page size=4096, Cores=8
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=31.9GB (32GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 148.98 MB used, 152.82 MB peak
+Process Virtual Memory: 130.11 MB used, 130.11 MB peak
+Physical Memory: 9687.07 MB used,  22998.55 MB free, 32685.62 MB total
+Virtual Memory: 134192864.00 MB used,  24863.61 MB free, 134217728.00 MB total
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Overriding language with editor language configuration option (en).
+Overriding language with editor locale configuration option (en).
+Setting process to per monitor DPI aware
+IME system deactivated.
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+Loaded GFSDK_Aftermath_Lib.x64.dll
+Failed to initialize OpenVR with code 110
+D3D11 min allowed feature level: 11_0
+D3D11 max allowed feature level: 11_0
+D3D11 adapters:
+   0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+      12124/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+   1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+      0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter:
+    Description : NVIDIA GeForce RTX 3060
+    VendorId    : 10de
+    DeviceId    : 2487
+    SubSysId    : 263019da
+    Revision    : 00a1
+    DedicatedVideoMemory : 12712935424 bytes
+    DedicatedSystemMemory : 0 bytes
+    SharedSystemMemory : 17136678912 bytes
+    AdapterLuid : 0 52086
+Creating new Direct3DDevice
+    GPU DeviceId: 0x2487 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+   1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+   2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+   3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+DebugString: FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce RTX 3060
+  Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+     Driver Date: 6-8-2023
+Texture pool is 8486 MB (70% of 12124 MB)
+Creating D3DDevice using adapter:
+    Description : NVIDIA GeForce RTX 3060
+    VendorId    : 10de
+    DeviceId    : 2487
+    SubSysId    : 263019da
+    Revision    : 00a1
+    DedicatedVideoMemory : 12712935424 bytes
+    DedicatedSystemMemory : 0 bytes
+    SharedSystemMemory : 17136678912 bytes
+    AdapterLuid : 0 52086
+RHI has support for 64 bit atomics
+Async texture creation enabled
+Array index from any shader is supported
+GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+GeForceNow SDK initialized: 1
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Oodle Texture 2.9.0 init RDO Off
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Guid format shader working directory is 11 characters bigger than the processId version (C:/Unreal Projects/AsteroidRemake/Intermediate/Shaders/WorkingDirectory/36520/).
+Cleaned the shader compiler working directory 'C:/Users/home/AppData/Local/Temp/UnrealShaderWorkingDir/E3E40C234B2BF8D7ECD9BE9832FA6E27/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.25s 94MB C:/Users/home/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/home/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file C:/Unreal Projects/AsteroidRemake/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Unreal Projects/AsteroidRemake/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/home/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+Performance to C:/Users/home/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.31ms. RandomReadSpeed=21.08MBs, RandomWriteSpeed=125.68MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/home/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.0055 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [0000022BB30E7200][0000022BA3830E00 49] Windows
+Profiles: [0000022BB30E7200][0000022BA3830E00 49] Windows, [0000022BB309D000][0000022BA3838F80 49] WindowsNoEditor, [0000022BB30E5000][0000022BA383D100 49] WindowsServer, [0000022BB309EC00][0000022BAA55B280 49] WindowsClient, [0000022BB30E6B00][0000022BAA55F400 49] IOS, [0000022BB309D700][0000022BAA563580 49] iPadAir, [0000022BB30E5600][0000022BAA567700 49] iPadAir2, [0000022BB304FD00][0000022BAA56F9C0 49] IPadPro, [0000022BB304FE00][0000022BAA56BA00 49] iPadAir3, [0000022BB30E6700][0000022BAA573B80 49] iPadAir4, [0000022BB304D500][0000022BAA576180 49] iPadMini2, [0000022BB30E5900][0000022BAA57A300 49] iPadMini3, [0000022BB304E600][0000022BAA57E480 49] iPadMini4, [0000022BB30E7600][0000022BA38345C0 49] iPadMini5, [0000022BB3053600][0000022BAA586800 49] iPhone6, [0000022BB3053700][0000022BAA582840 49] iPodTouch6, [0000022BB304C300][0000022BAA592AC0 49] iPhone7, [0000022BB304C200][0000022BAA58AB00 49] iPodTouch7, [0000022BB3051400][0000022BB191EC80 49] iPhone5S, [0000022BB304FC00][0000022BB1922E00 49] iPhone6Plus, [0000022BB3052700][0000022BB1926F80 49] iPhone6S, [0000022BB304FB00][0000022BB192B100 49] iPhone6SPlus, [0000022BB3051A00][0000022BB192F280 49] iPhone7Plus, [0000022BB304F700][0000022BB1933400 49] iPhoneSE, [0000022BB3053B00][0000022BB1937580 49] iPhone8, [0000022BB304D600][0000022BB193B700 49] iPhone8Plus, [0000022BB3051800][0000022BB193F880 49] iPhoneX, [0000022BB304FF00][0000022BB1943A00 49] iPhoneXS, [0000022BB3050B00][0000022BB1947B80 49] iPhoneXSMax, [0000022BB304EA00][0000022BB194A180 49] iPhoneXR, [0000022BB3053C00][0000022BB194E300 49] iPhone11, [0000022BB304EC00][0000022BB1952480 49] iPhone11Pro, [0000022BB3052800][0000022BB1956600 49] iPhone11ProMax, [0000022BB304DB00][0000022BAA58E740 49] iPhoneSE2, [0000022BB3052500][0000022BB195A880 49] iPhone12Mini, [0000022BB304CF00][0000022BAA69E9C0 49] iPhone12, [0000022BB3052B00][0000022BAA6A2B00 49] iPhone12Pro, [0000022BB304E000][0000022BAA6AAC80 49] iPhone12ProMax, [0000022BB3052A00][0000022BAA6AEE00 49] iPadPro105, [0000022BB304F800][0000022BAA6B2F80 49] iPadPro129, [0000022BB3051C00][0000022BAA6B7100 49] iPadPro97, [0000022BB304D300][0000022BAA6BB280 49] iPadPro2_129, [0000022BB3052D00][0000022BAA6BF400 49] iPad5, [0000022BB304F100][0000022BAA6C3580 49] iPad6, [0000022BB3050500][0000022BAA6C7700 49] iPad7, [0000022BB304D100][0000022BAA6CB880 49] iPad8, [0000022BB3053000][0000022BAA6CFA00 49] iPadPro11, [0000022BB304C800][0000022BAA6D3B80 49] iPadPro2_11, [0000022BB3051300][0000022BAA6D6180 49] iPadPro3_129, [0000022BB304F500][0000022BAA6DA300 49] iPadPro4_129, [0000022BB3050F00][0000022BAA6DE480 49] AppleTV, [0000022BB304F300][0000022BAA6E2600 49] AppleTV4K, [0000022BB3053A00][0000022BAA6E6780 49] TVOS, [0000022BB304EB00][0000022BAA6EA900 49] Mac, [0000022BB3051D00][0000022BAA6A6A40 49] MacClient, [0000022BB304E400][0000022BAA6EEB80 49] MacNoEditor, [0000022BB3052200][0000022BAA6F2CC0 49] MacServer, [0000022BB304DF00][0000022BAA6FAE40 49] Linux, [0000022BB309E700][0000022BAA6FEFC0 49] LinuxAArch64, [0000022BB3130300][0000022BAA703140 49] LinuxNoEditor, [0000022BB309C700][0000022BAA7072C0 49] LinuxAArch64NoEditor, [0000022BB3131A00][0000022BAA70B440 49] LinuxClient, [0000022BB309D500][0000022BAA70F5C0 49] LinuxAArch64Client, [0000022BB3130D00][0000022BAA713740 49] LinuxServer, [0000022BB309D100][0000022BAA7178C0 49] LinuxAArch64Server, [0000022BB3131900][0000022BAA71BA40 49] Android, [0000022BB309E400][0000022BAA71FBC0 49] Android_Low, [0000022BB3131800][0000022BAA7221C0 49] Android_Mid, [0000022BB309D200][0000022BAA726340 49] Android_High, [0000022BB3131100][0000022BAA72A4C0 49] Android_Default, [0000022BB309E800][0000022BAA72E640 49] Android_Adreno4xx, [0000022BB3131B00][0000022BAA7327C0 49] Android_Adreno5xx_Low, [0000022BB309D800][0000022BAA736940 49] Android_Adreno5xx, [0000022BB3130F00][0000022BAA73AAC0 49] Android_Adreno6xx, [0000022BB309CC00][0000022BAA6F6C00 49] Android_Adreno6xx_Vulkan, [0000022BB3130C00][0000022BB2BC0D40 49] Android_Mali_T6xx, [0000022BB309FF00][0000022BB2BC4E80 49] Android_Mali_T7xx, [0000022BB3130A00][0000022BB2BC8FC0 49] Android_Mali_T8xx, [0000022BB309F200][0000022BB2BD1140 49] Android_Mali_G71, [0000022BB3131200][0000022BB2BD52C0 49] Android_Mali_G72, [0000022BB304E100][0000022BB2BD9440 49] Android_Mali_G72_Vulkan, [0000022BB3050600][0000022BB2BDD5C0 49] Android_Mali_G76, [0000022BB304C900][0000022BB2BE1740 49] Android_Mali_G76_Vulkan, [0000022BB3050400][0000022BB2BE58C0 49] Android_Mali_G77, [0000022BB304F600][0000022BB2BE9A40 49] Android_Mali_G77_Vulkan, [0000022BB3052400][0000022BB2BEDBC0 49] Android_Mali_G78, [0000022BB304C500][0000022BB2BF01C0 49] Android_Mali_G78_Vulkan, [0000022BB3053400][0000022BB2BF4340 49] Android_Mali_G710, [0000022BB304C100][0000022BB2BF84C0 49] Android_Mali_G710_Vulkan, [0000022BB3053500][0000022BB2BFC640 49] Android_Vulkan_SM5, [0000022BB304E300][0000022BB2C007C0 49] Android_PowerVR_G6xxx, [0000022BB3050A00][0000022BB2C04940 49] Android_PowerVR_GT7xxx, [0000022BB304DE00][0000022BB2C08AC0 49] Android_PowerVR_GE8xxx, [0000022BB3050800][0000022BB2C0CC40 49] Android_PowerVR_GM9xxx, [0000022BB304C600][0000022BB2BCCD80 49] Android_PowerVR_GM9xxx_Vulkan, [0000022BB3051900][0000022BB2C10EC0 49] Android_TegraK1, [0000022BB304C400][0000022BB2C15000 49] Android_Unknown_Vulkan, [0000022BB3050700][0000022BB2C19140 49] Lumin, [0000022BB304E800][0000022BB2C212C0 49] Lumin_Desktop, [0000022BB3131300][0000022BB2C25440 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+AsteroidRemake 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3258840638)
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+PokeAHoleMaterial loaded successfully
+17178 objects as part of root set at end of initial load.
+4302048 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Niagara Debugger Client Initialized | Session: 31BF450F4299420D59B87B960A418AD0 | Instance: 626C68904184F1B663F0398306A07909 (DESKTOP-V6GCTTP-36520).
+Initializing TcpMessaging bridge
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+Using Python 3.7.7
+
+
+Script Stack (0 frames):
+
+FPlatformStackWalk::StackWalkAndDump -  0.252 s
+=== Handled ensure: ===
+
+Ensure condition failed: InParent != this [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1752]
+Cannot attach a component to itself.
+Stack: 
+[Callstack] 0x00007ff99f853c59 UE4Editor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ff99e2c5b24 UE4Editor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ff99e296c18 UE4Editor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ff972c548da UE4Editor-AsteroidRemake-0041.dll!AShipPlayer::AShipPlayer() [C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake\ShipPlayer.cpp:27]
+[Callstack] 0x00007ff9ab7f61d3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ff9abb18faf UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ff9abaf5411 UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ff9ab9bddc5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[Callstack] 0x00007ff9a7001bea UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ff9a70215a3 UE4Editor-Core.dll!UnknownFunction []
+[Callstack] 0x00007ffa31056433 UE4Editor-Projects.dll!UnknownFunction []
+[Callstack] 0x00007ffa3105674f UE4Editor-Projects.dll!UnknownFunction []
+[Callstack] 0x00007ff643ba5642 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff643ba9000 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff643ba0d2c UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff643ba10ba UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff643ba40dd UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff643bb5984 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff643bb853a UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ffa652d7614 KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ffa65ec26f1 ntdll.dll!UnknownFunction []
+
+               SubmitErrorReport -  0.000 s

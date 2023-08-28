@@ -1,0 +1,9 @@
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Definitions.AsteroidRemake.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake/AsteroidRemakeGameModeBase.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\FORTNITE\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\AsteroidRemakeGameModeBase.generated.h

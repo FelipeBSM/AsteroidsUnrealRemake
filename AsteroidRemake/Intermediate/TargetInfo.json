@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AsteroidRemake",
+			"Path": "C:\\Unreal Projects\\AsteroidRemake\\Source\\AsteroidRemake.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AsteroidRemakeEditor",
+			"Path": "C:\\Unreal Projects\\AsteroidRemake\\Source\\AsteroidRemakeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

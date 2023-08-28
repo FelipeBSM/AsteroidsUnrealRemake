@@ -1,0 +1,1998 @@
+﻿Log file open, 08/23/23 22:28:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AsteroidRemake
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184675
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/FORTNITE/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+[2023.08.24-01.28.58:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.08.24-01.28.58:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+[2023.08.24-01.28.58:643][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+[2023.08.24-01.28.58:653][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.08.24-01.28.58:653][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.08.24-01.28.58:654][  0]LogInit: Selected Device Profile: [Windows]
+[2023.08.24-01.28.58:654][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.08.24-01.28.58:654][  0]LogHAL: Display: Platform has ~ 32 GB [34273357824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.08.24-01.28.58:654][  0]LogInit: Going up to parent DeviceProfile []
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.08.24-01.28.58:654][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Scalability.ini]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Engine.ini]
+[2023.08.24-01.28.58:655][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Projects/AsteroidRemake/Saved/Config/Windows/Editor.ini]
+[2023.08.24-01.28.58:655][  0]LogInit: Computer: DESKTOP-V6GCTTP
+[2023.08.24-01.28.58:655][  0]LogInit: User: home
+[2023.08.24-01.28.58:655][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.08.24-01.28.58:655][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.08.24-01.28.58:656][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.08.24-01.28.58:656][  0]LogMemory: Platform Memory Stats for Windows
+[2023.08.24-01.28.58:656][  0]LogMemory: Process Physical Memory: 148.62 MB used, 152.41 MB peak
+[2023.08.24-01.28.58:656][  0]LogMemory: Process Virtual Memory: 131.40 MB used, 131.40 MB peak
+[2023.08.24-01.28.58:656][  0]LogMemory: Physical Memory: 14207.55 MB used,  18478.07 MB free, 32685.62 MB total
+[2023.08.24-01.28.58:656][  0]LogMemory: Virtual Memory: 134202720.00 MB used,  15005.42 MB free, 134217728.00 MB total
+[2023.08.24-01.28.58:659][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.08.24-01.28.58:689][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.08.24-01.28.58:690][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.08.24-01.28.58:690][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2023.08.24-01.28.58:824][  0]LogInit: Setting process to per monitor DPI aware
+[2023.08.24-01.28.58:832][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.08.24-01.28.58:842][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.08.24-01.28.58:842][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.08.24-01.28.58:983][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.08.24-01.28.58:985][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.08.24-01.28.58:985][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.08.24-01.28.58:985][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.08.24-01.28.58:985][  0]LogD3D11RHI: D3D11 adapters:
+[2023.08.24-01.28.59:079][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2023.08.24-01.28.59:079][  0]LogD3D11RHI:       12124/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     DeviceId    : 2487
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     SubSysId    : 263019da
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     DedicatedVideoMemory : 12712935424 bytes
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     SharedSystemMemory : 17136678912 bytes
+[2023.08.24-01.28.59:081][  0]LogD3D11RHI:     AdapterLuid : 0 52086
+[2023.08.24-01.28.59:086][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.08.24-01.28.59:086][  0]LogD3D11RHI:     GPU DeviceId: 0x2487 (for the marketing name, search the web for "GPU Device Id")
+[2023.08.24-01.28.59:086][  0]LogWindows: EnumDisplayDevices:
+[2023.08.24-01.28.59:086][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2023.08.24-01.28.59:086][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2023.08.24-01.28.59:086][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2023.08.24-01.28.59:087][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2023.08.24-01.28.59:087][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:   Driver Version: 536.23 (internal:31.0.15.3623, unified:536.23)
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:      Driver Date: 6-8-2023
+[2023.08.24-01.28.59:087][  0]LogRHI: Texture pool is 8486 MB (70% of 12124 MB)
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     DeviceId    : 2487
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     SubSysId    : 263019da
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     DedicatedVideoMemory : 12712935424 bytes
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     SharedSystemMemory : 17136678912 bytes
+[2023.08.24-01.28.59:087][  0]LogD3D11RHI:     AdapterLuid : 0 52086
+[2023.08.24-01.28.59:161][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.08.24-01.28.59:161][  0]LogD3D11RHI: Async texture creation enabled
+[2023.08.24-01.28.59:161][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.08.24-01.28.59:179][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.08.24-01.28.59:200][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.08.24-01.28.59:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.08.24-01.28.59:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.08.24-01.28.59:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.08.24-01.28.59:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.08.24-01.28.59:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.08.24-01.28.59:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.08.24-01.28.59:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.08.24-01.28.59:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.08.24-01.28.59:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.08.24-01.28.59:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.08.24-01.28.59:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.08.24-01.28.59:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.08.24-01.28.59:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.08.24-01.28.59:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.08.24-01.28.59:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.08.24-01.28.59:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.08.24-01.28.59:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.08.24-01.28.59:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.08.24-01.28.59:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.08.24-01.28.59:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.08.24-01.28.59:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.08.24-01.28.59:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.08.24-01.28.59:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.08.24-01.28.59:519][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.08.24-01.28.59:525][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.08.24-01.28.59:546][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.08.24-01.28.59:568][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.08.24-01.28.59:569][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (C:/Unreal Projects/AsteroidRemake/Intermediate/Shaders/WorkingDirectory/392/).
+[2023.08.24-01.28.59:569][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/home/AppData/Local/Temp/UnrealShaderWorkingDir/AEA56F824EDB566E1C2C90BEBAEB44C0/'.
+[2023.08.24-01.28.59:569][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.08.24-01.28.59:569][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.08.24-01.28.59:569][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.08.24-01.29.00:164][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.08.24-01.29.00:207][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/home/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.08.24-01.29.00:207][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/home/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.08.24-01.29.00:207][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Unreal Projects/AsteroidRemake/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.08.24-01.29.00:207][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.08.24-01.29.00:207][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Unreal Projects/AsteroidRemake/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.08.24-01.29.00:207][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.08.24-01.29.00:219][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.08.24-01.29.00:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.08.24-01.29.00:220][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.08.24-01.29.00:225][  0]LogDerivedDataCache: Speed tests for C:/Users/home/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.08.24-01.29.00:225][  0]LogDerivedDataCache: Display: Performance to C:/Users/home/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1399.50MBs, RandomWriteSpeed=248.42MBs. Assigned SpeedClass 'Local'
+[2023.08.24-01.29.00:225][  0]LogDerivedDataCache: Using Local data cache path C:/Users/home/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.08.24-01.29.00:225][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.08.24-01.29.00:225][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.08.24-01.29.00:261][  0]LogSlate: Using FreeType 2.10.0
+[2023.08.24-01.29.00:262][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.08.24-01.29.00:278][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2023.08.24-01.29.00:447][  0]LogInit: Selected Device Profile: [Windows]
+[2023.08.24-01.29.00:447][  0]LogInit: Active device profile: [00000266386CF900][0000026636EE9900 49] Windows
+[2023.08.24-01.29.00:447][  0]LogInit: Profiles: [00000266386CF900][0000026636EE9900 49] Windows, [000002663867C800][0000026635A4BA80 49] WindowsNoEditor, [00000266386CC800][0000026635A4FC00 49] WindowsServer, [000002663867F400][0000026635A52200 49] WindowsClient, [00000266386CF300][0000026636EEC340 49] IOS, [000002663867D000][0000026635A56480 49] iPadAir, [00000266386CCF00][0000026635A5A5C0 49] iPadAir2, [00000266385C4500][0000026635A66840 49] IPadPro, [00000266385C4600][0000026635A5E880 49] iPadAir3, [00000266386CEE00][0000026635A6EA00 49] iPadAir4, [00000266385C7600][0000026635A72B80 49] iPadMini2, [00000266386CD200][0000026635A7AD00 49] iPadMini3, [00000266385C5700][000002662E33AE80 49] iPadMini4, [00000266386CE800][0000026634AA9000 49] iPadMini5, [000002663838FD00][0000026636BAB2C0 49] iPhone6, [000002663838FE00][0000026634AB1300 49] iPodTouch6, [00000266385C6E00][0000026636BB35C0 49] iPhone7, [00000266385C7200][0000026636BAF600 49] iPodTouch7, [000002663838CD00][0000026636BB7780 49] iPhone5S, [00000266385C7B00][0000026636BBF900 49] iPhone6Plus, [000002663838EE00][0000026636BC7A80 49] iPhone6S, [00000266385C4900][0000026636BD7C00 49] iPhone6SPlus, [000002663838D300][0000026636BDA200 49] iPhone7Plus, [00000266385C5400][0000026636BDE380 49] iPhoneSE, [000002663838E800][0000026636BE2500 49] iPhone8, [00000266385C4D00][0000026635A62640 49] iPhone8Plus, [000002663838D900][000002662E7DE780 49] iPhoneX, [00000266385C7900][000002662E7EC8C0 49] iPhoneXS, [000002663838CB00][0000026636C92A40 49] iPhoneXSMax, [00000266385C5900][0000026636CD0BC0 49] iPhoneXR, [000002663838C800][0000026636CD4D40 49] iPhone11, [00000266385C7700][0000026636CD8EC0 49] iPhone11Pro, [000002663838EA00][000002662E32B040 49] iPhone11ProMax, [00000266385C6700][000002662E32F1C0 49] iPhoneSE2, [000002663838D800][000002662E333340 49] iPhone12Mini, [00000266385C6300][000002662E3374C0 49] iPhone12, [000002663838DD00][0000026634A87640 49] iPhone12Pro, [00000266385C4E00][0000026634A8B7C0 49] iPhone12ProMax, [000002663838EF00][0000026634A8F940 49] iPadPro105, [00000266385C4B00][0000026634A93AC0 49] iPadPro129, [000002663838D200][0000026634A960C0 49] iPadPro97, [00000266385C5000][0000026634A9A240 49] iPadPro2_129, [000002663838E600][0000026634A9E3C0 49] iPad5, [00000266385C7F00][0000026634AA2540 49] iPad6, [000002663838C500][00000266382786C0 49] iPad7, [00000266385C5500][000002662E7F0800 49] iPad8, [000002663838F000][000002663827C940 49] iPadPro11, [00000266385C7800][00000266382A4A80 49] iPadPro2_11, [000002663838DF00][00000266382B4BC0 49] iPadPro3_129, [00000266385C6C00][00000266382CCD40 49] iPadPro4_129, [000002663838F400][00000266382D0EC0 49] AppleTV, [00000266385C7500][00000266382D5040 49] AppleTV4K, [000002663838C300][00000266382D91C0 49] TVOS, [00000266385C6F00][00000266382DD340 49] Mac, [000002663838FB00][00000266382E14C0 49] MacClient, [00000266385C7400][00000266382E5640 49] MacNoEditor, [000002663838CE00][00000266382E97C0 49] MacServer, [00000266385C6800][00000266382ED940 49] Linux, [000002663838DA00][00000266382F7AC0 49] LinuxAArch64, [00000266385C7100][00000266382FA0C0 49] LinuxNoEditor, [000002663838E900][000002662E2CE240 49] LinuxAArch64NoEditor, [00000266385C6600][000002662E2D23C0 49] LinuxClient, [000002663838E700][000002662E2DE540 49] LinuxAArch64Client, [00000266385C5100][000002662E2E26C0 49] LinuxServer, [000002663838FF00][000002662E2E6840 49] LinuxAArch64Server, [00000266385C6B00][00000266382C8980 49] Android, [000002663867E500][000002662E2EEAC0 49] Android_Low, [0000026638704800][000002662E2F2C00 49] Android_Mid, [000002663867ED00][000002663954CD40 49] Android_High, [0000026638704B00][000002662E2FAEC0 49] Android_Default, [000002663867F600][000002662E2FF040 49] Android_Adreno4xx, [0000026638704E00][000002662E3031C0 49] Android_Adreno5xx_Low, [000002663867C200][000002662E2EB340 49] Android_Adreno5xx, [0000026638705700][00000266395494C0 49] Android_Adreno6xx, [000002663867CA00][000002662E307640 49] Android_Adreno6xx_Vulkan, [0000026638704100][000002662E3177C0 49] Android_Mali_T6xx, [000002663867D200][000002662E31B940 49] Android_Mali_T7xx, [0000026638706100][000002662E31FAC0 49] Android_Mali_T8xx, [000002663867FC00][000002662E3220C0 49] Android_Mali_G71, [0000026638705F00][000002662E326240 49] Android_Mali_G72, [000002663867DC00][00000266396AE3C0 49] Android_Mali_G72_Vulkan, [0000026638705C00][0000026636BEA540 49] Android_Mali_G76, [000002663867CD00][0000026630F7C6C0 49] Android_Mali_G76_Vulkan, [0000026638705500][000002663970C840 49] Android_Mali_G77, [000002663867DE00][0000026636BE69C0 49] Android_Mali_G77_Vulkan, [0000026638704D00][00000266396B2B40 49] Android_Mali_G78, [000002663867F100][000002662E2F6C80 49] Android_Mali_G78_Vulkan, [0000026638704400][00000266396B6DC0 49] Android_Mali_G710, [000002663867D700][00000266396BAF00 49] Android_Mali_G710_Vulkan, [0000026638705000][00000266396C3080 49] Android_Vulkan_SM5, [000002663867F700][00000266396C7200 49] Android_PowerVR_G6xxx, [0000026638704C00][00000266396CB380 49] Android_PowerVR_GT7xxx, [00000266385C5D00][000002662E7A7500 49] Android_PowerVR_GE8xxx, [000002663838DB00][000002662E7AB680 49] Android_PowerVR_GM9xxx, [00000266385C7C00][000002662E7AF800 49] Android_PowerVR_GM9xxx_Vulkan, [000002663838C100][000002662E7B3980 49] Android_TegraK1, [00000266385C4A00][000002662E7B7B00 49] Android_Unknown_Vulkan, [000002663838E400][000002662E7BA100 49] Lumin, [00000266385C6D00][000002662E7BE280 49] Lumin_Desktop, [0000026638704600][000002662E7C2400 49] HoloLens, 
+[2023.08.24-01.29.00:543][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.08.24-01.29.00:543][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.08.24-01.29.00:543][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.08.24-01.29.00:543][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.08.24-01.29.00:543][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.08.24-01.29.00:554][  0]LogNetVersion: AsteroidRemake 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3258840638)
+[2023.08.24-01.29.01:376][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.08.24-01.29.01:417][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.08.24-01.29.01:421][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.08.24-01.29.01:421][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.08.24-01.29.01:421][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.08.24-01.29.01:604][  0]LogPython: Using Python 3.7.7
+[2023.08.24-01.29.02:001][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9BD25AB44C6136593BCD639B7A1C4B95 | Instance: BDD9A36B4A3F1E85867ECC9160D1500D (DESKTOP-V6GCTTP-392).
+[2023.08.24-01.29.02:112][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.08.24-01.29.02:115][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.08.24-01.29.02:150][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.08.24-01.29.02:192][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.043 s
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: 
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: Ensure condition failed: InParent != this [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1752]
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: Cannot attach a component to itself.
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: Stack: 
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff995743c59 UE4Editor-Engine.dll!UnknownFunction []
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9941b5b24 UE4Editor-Engine.dll!UnknownFunction []
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff994186c18 UE4Editor-Engine.dll!UnknownFunction []
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9548d2eb7 UE4Editor-AsteroidRemake-0083.dll!AShipPlayer::AShipPlayer() [C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake\ShipPlayer.cpp:26]
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9f29f61d3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9f2d18faf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9f2cf5411 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9f2bbddc5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.08.24-01.29.02:192][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9f58f1bea UE4Editor-Core.dll!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9f59115a3 UE4Editor-Core.dll!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2c806433 UE4Editor-Projects.dll!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa2c80674f UE4Editor-Projects.dll!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff653665642 UE4Editor.exe!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff653669000 UE4Editor.exe!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff653660d2c UE4Editor.exe!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6536610ba UE4Editor.exe!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6536640dd UE4Editor.exe!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff653675984 UE4Editor.exe!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ff65367853a UE4Editor.exe!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa652d7614 KERNEL32.DLL!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: [Callstack] 0x00007ffa65ec26f1 ntdll.dll!UnknownFunction []
+[2023.08.24-01.29.02:193][  0]LogOutputDevice: Error: 
+[2023.08.24-01.29.02:199][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2023.08.24-01.29.02:838][  0]LogStats:                    SendNewReport -  0.639 s
+[2023.08.24-01.29.02:838][  0]LogStats:             FDebug::EnsureFailed -  0.689 s
+[2023.08.24-01.29.03:047][  0]LogOpenImageDenoise: OIDN starting up
+[2023.08.24-01.29.03:056][  0]SourceControl: Source control is disabled
+[2023.08.24-01.29.03:056][  0]SourceControl: Source control is disabled
+[2023.08.24-01.29.03:059][  0]SourceControl: Source control is disabled
+[2023.08.24-01.29.03:061][  0]SourceControl: Source control is disabled
+[2023.08.24-01.29.03:066][  0]SourceControl: Source control is disabled
+[2023.08.24-01.29.03:075][  0]LogUProjectInfo: Found projects:
+[2023.08.24-01.29.03:110][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.08.24-01.29.03:120][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.24-01.29.03:120][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.24-01.29.03:217][  0]LogCollectionManager: Loaded 0 collections in 0.000504 seconds
+[2023.08.24-01.29.03:234][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/AsteroidRemake/Saved/Collections/' took 0.00s
+[2023.08.24-01.29.03:234][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/AsteroidRemake/Content/Developers/home/Collections/' took 0.00s
+[2023.08.24-01.29.03:234][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/AsteroidRemake/Content/Collections/' took 0.00s
+[2023.08.24-01.29.03:234][  0]LogOcInput: OculusInput pre-init called
+[2023.08.24-01.29.03:400][  0]LogEngine: Initializing Engine...
+[2023.08.24-01.29.03:472][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.08.24-01.29.03:472][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2023.08.24-01.29.03:472][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2023.08.24-01.29.03:473][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2023.08.24-01.29.03:473][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.08.24-01.29.03:473][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.08.24-01.29.03:474][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.08.24-01.29.03:564][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.08.24-01.29.03:570][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.08.24-01.29.03:578][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.08.24-01.29.03:581][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.08.24-01.29.03:581][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.08.24-01.29.03:581][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.08.24-01.29.03:581][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.24-01.29.03:582][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.24-01.29.03:582][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.24-01.29.03:582][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.24-01.29.03:582][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.24-01.29.03:582][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.24-01.29.03:590][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.24-01.29.03:590][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.08.24-01.29.03:606][  0]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (Razer Kraken 7.1 V2)
+[2023.08.24-01.29.03:609][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.24-01.29.03:610][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.24-01.29.03:610][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.24-01.29.03:611][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.24-01.29.03:611][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.24-01.29.03:611][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.24-01.29.03:611][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.24-01.29.03:611][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.24-01.29.03:611][  0]LogInit: FAudioDevice initialized.
+[2023.08.24-01.29.03:612][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.08.24-01.29.03:612][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.08.24-01.29.03:700][  0]LogDerivedDataCache: Saved boot cache 0.09s 94MB C:/Users/home/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.08.24-01.29.03:701][  0]LogInit: Texture streaming: Enabled
+[2023.08.24-01.29.03:709][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.08.24-01.29.03:712][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.08.24-01.29.03:712][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={82DEA24A-42D4-6ACA-01A3-97996F347F78}
+[2023.08.24-01.29.03:713][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.08.24-01.29.03:714][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.08.24-01.29.03:735][  0]LogInit: Transaction tracking system initialized
+[2023.08.24-01.29.03:750][  0]BlueprintLog: New page: Editor Load
+[2023.08.24-01.29.03:792][  0]LocalizationService: Localization service is disabled
+[2023.08.24-01.29.03:808][  0]TimingProfiler: Initialize
+[2023.08.24-01.29.03:808][  0]TimingProfiler: OnSessionChanged
+[2023.08.24-01.29.03:808][  0]LoadingProfiler: Initialize
+[2023.08.24-01.29.03:808][  0]LoadingProfiler: OnSessionChanged
+[2023.08.24-01.29.03:808][  0]NetworkingProfiler: Initialize
+[2023.08.24-01.29.03:808][  0]NetworkingProfiler: OnSessionChanged
+[2023.08.24-01.29.03:808][  0]MemoryProfiler: Initialize
+[2023.08.24-01.29.03:808][  0]MemoryProfiler: OnSessionChanged
+[2023.08.24-01.29.03:909][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.08.24-01.29.03:909][  0]LogCook: Display: Mobile HDR setting 1
+[2023.08.24-01.29.03:942][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/AsteroidRemake/Content/' took 0.00s
+[2023.08.24-01.29.04:169][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.08.24-01.29.04:171][  0]SourceControl: Source control is disabled
+[2023.08.24-01.29.04:171][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.888
+[2023.08.24-01.29.04:172][  0]Cmd: MAP LOAD FILE="C:/Unreal Projects/AsteroidRemake/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.08.24-01.29.04:172][  0]LightingResults: New page: Lighting Build
+[2023.08.24-01.29.04:173][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.08.24-01.29.04:173][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.24-01.29.04:173][  0]MapCheck: New page: Map Check
+[2023.08.24-01.29.04:173][  0]LightingResults: New page: Lighting Build
+[2023.08.24-01.29.04:176][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.24-01.29.04:178][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.24-01.29.04:236][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.08.24-01.29.04:237][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.24-01.29.04:259][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.24-01.29.04:275][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.24-01.29.04:275][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.24-01.29.04:276][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2023.08.24-01.29.04:276][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.104
+[2023.08.24-01.29.04:277][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.994
+[2023.08.24-01.29.04:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-01.29.04:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-01.29.04:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-01.29.04:375][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-01.29.04:385][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 3825 classes and 930 folders.
+[2023.08.24-01.29.04:386][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.08.24-01.29.04:388][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.08.24-01.29.04:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.08.24-01.29.04:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.08.24-01.29.04:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.08.24-01.29.04:388][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.08.24-01.29.04:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.08.24-01.29.04:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:388][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.08.24-01.29.04:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.08.24-01.29.04:389][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.08.24-01.29.04:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.08.24-01.29.04:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.08.24-01.29.04:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.08.24-01.29.04:389][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.08.24-01.29.04:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.08.24-01.29.04:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:389][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.08.24-01.29.04:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.08.24-01.29.04:390][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.08.24-01.29.04:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.08.24-01.29.04:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:390][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.08.24-01.29.04:390][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.08.24-01.29.04:390][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.08.24-01.29.04:390][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:390][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.08.24-01.29.04:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.08.24-01.29.04:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:391][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.08.24-01.29.04:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.08.24-01.29.04:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.08.24-01.29.04:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.08.24-01.29.04:392][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.08.24-01.29.04:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.08.24-01.29.04:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.08.24-01.29.04:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.08.24-01.29.04:392][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.08.24-01.29.04:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.08.24-01.29.04:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:392][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.08.24-01.29.04:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:393][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.08.24-01.29.04:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.08.24-01.29.04:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.08.24-01.29.04:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:393][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.08.24-01.29.04:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.08.24-01.29.04:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.08.24-01.29.04:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.08.24-01.29.04:394][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.08.24-01.29.04:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.08.24-01.29.04:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.08.24-01.29.04:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:394][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.08.24-01.29.04:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.08.24-01.29.04:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.08.24-01.29.04:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:395][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.08.24-01.29.04:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.08.24-01.29.04:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.08.24-01.29.04:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.08.24-01.29.04:395][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.08.24-01.29.04:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.08.24-01.29.04:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.08.24-01.29.04:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:396][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.08.24-01.29.04:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.08.24-01.29.04:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.08.24-01.29.04:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:397][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.08.24-01.29.04:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.08.24-01.29.04:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.08.24-01.29.04:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.08.24-01.29.04:397][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.08.24-01.29.04:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.08.24-01.29.04:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.08.24-01.29.04:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.08.24-01.29.04:398][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.08.24-01.29.04:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.08.24-01.29.04:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.08.24-01.29.04:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.08.24-01.29.04:398][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.08.24-01.29.04:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.08.24-01.29.04:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.08.24-01.29.04:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:399][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.08.24-01.29.04:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.08.24-01.29.04:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.08.24-01.29.04:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:399][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.08.24-01.29.04:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.08.24-01.29.04:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.08.24-01.29.04:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:400][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.08.24-01.29.04:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.08.24-01.29.04:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.08.24-01.29.04:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.08.24-01.29.04:400][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.08.24-01.29.04:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.08.24-01.29.04:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.08.24-01.29.04:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.08.24-01.29.04:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.08.24-01.29.04:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.08.24-01.29.04:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.08.24-01.29.04:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.08.24-01.29.04:401][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.08.24-01.29.04:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.08.24-01.29.04:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.08.24-01.29.04:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/FORTNITE/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.08.24-01.29.04:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/FORTNITE/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.08.24-01.29.04:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.08.24-01.29.04:451][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.08.24-01.29.04:452][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.08.24-01.29.04:475][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.08.24-01.29.04:476][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.08.24-01.29.04:477][  0]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.08.24-01.29.04:539][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.08.24-01.29.04:562][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.24-01.29.04:731][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.08.24-01.29.04:731][  0]LogLoad: (Engine Initialization) Total time: 7.45 seconds
+[2023.08.24-01.29.04:731][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.08.24-01.29.04:765][  0]LogAssetRegistry: Asset discovery search completed in 4.4882 seconds
+[2023.08.24-01.29.04:770][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.08.24-01.29.04:771][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.08.24-01.30.39:960][686]LogHotReload: New module detected: UE4Editor-AsteroidRemake-0084.dll
+[2023.08.24-01.30.40:305][688]LogHotReload: Starting Hot-Reload from IDE
+[2023.08.24-01.30.40:307][688]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.24-01.30.40:346][688]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AsteroidRemake' in 0.0002 seconds. Added 3 classes and 2 folders.
+[2023.08.24-01.30.40:347][688]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.08.24-01.30.40:390][688]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3825 classes and 930 folders.
+[2023.08.24-01.30.40:395][688]Display: HotReload took  0.1s.
+[2023.08.24-01.30.43:266][794]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.24-01.30.43:270][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.24-01.30.43:270][794]PIE: New page: PIE session: Minimal_Default (Aug 23, 2023, 7:30:43 PM)
+[2023.08.24-01.30.43:271][794]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.08.24-01.30.43:272][794]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.08.24-01.30.43:272][794]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.24-01.30.43:274][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001839s)
+[2023.08.24-01.30.43:275][794]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.24-01.30.43:275][794]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2023.08.24-01.30.43:275][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002682s)
+[2023.08.24-01.30.43:279][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.08.24-01.30.43:279][794]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.08.24-01.30.43:279][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.24-01.30.43:279][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.24-01.30.43:279][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.24-01.30.43:279][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.24-01.30.43:279][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.24-01.30.43:279][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.24-01.30.43:279][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.24-01.30.43:279][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.24-01.30.43:280][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.24-01.30.43:280][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.24-01.30.43:280][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.24-01.30.43:280][794]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.24-01.30.43:283][794]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.24-01.30.43:283][794]LogAudioMixer: Display: 1: FrontRight
+[2023.08.24-01.30.43:289][794]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (Razer Kraken 7.1 V2)
+[2023.08.24-01.30.43:290][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.24-01.30.43:290][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.24-01.30.43:290][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.24-01.30.43:290][794]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.24-01.30.43:290][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.24-01.30.43:290][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.24-01.30.43:291][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.24-01.30.43:291][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.24-01.30.43:291][794]LogInit: FAudioDevice initialized.
+[2023.08.24-01.30.43:291][794]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2023.08.24-01.30.43:300][794]LogLoad: Game class is 'GameModeBase'
+[2023.08.24-01.30.43:301][794]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.08.23-22.30.43
+[2023.08.24-01.30.43:301][794]LogWorld: Bringing up level for play took: 0.000514
+[2023.08.24-01.30.43:301][794]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.08.24-01.30.43:327][794]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.08.24-01.30.43:327][794]PIE: Server logged in
+[2023.08.24-01.30.43:328][794]PIE: Play in editor total start time 0.059 seconds.
+[2023.08.24-01.30.43:329][794]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:342][795]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:351][796]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:359][797]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:367][798]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:375][799]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:384][800]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:392][801]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:400][802]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:409][803]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:417][804]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:425][805]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:434][806]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:443][807]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:451][808]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:460][809]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:469][810]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:478][811]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:485][812]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:494][813]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:502][814]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:510][815]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:518][816]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:526][817]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:535][818]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:543][819]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:551][820]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:560][821]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:568][822]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:576][823]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:585][824]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:593][825]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:602][826]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:610][827]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:618][828]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:627][829]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:635][830]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:643][831]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:652][832]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:660][833]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:668][834]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:677][835]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:685][836]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:693][837]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:701][838]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:710][839]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:718][840]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:727][841]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:735][842]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:743][843]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:751][844]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:760][845]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:768][846]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:776][847]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:785][848]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:793][849]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:802][850]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:810][851]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:818][852]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:826][853]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:835][854]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:843][855]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:851][856]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:860][857]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:868][858]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:877][859]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:885][860]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:893][861]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:901][862]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:909][863]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:918][864]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:926][865]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:935][866]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:943][867]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:951][868]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:960][869]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:968][870]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:977][871]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:985][872]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.43:993][873]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:001][874]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:010][875]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:018][876]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:026][877]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:035][878]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:043][879]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:051][880]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:059][881]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:068][882]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:076][883]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:085][884]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:093][885]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:101][886]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:110][887]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:118][888]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:126][889]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:135][890]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:144][891]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:151][892]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:160][893]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:168][894]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:176][895]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:185][896]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:193][897]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:201][898]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:209][899]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:218][900]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:226][901]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:234][902]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:243][903]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:251][904]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:259][905]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:268][906]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:276][907]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:285][908]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:293][909]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:301][910]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:309][911]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:318][912]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:326][913]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:335][914]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:343][915]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:351][916]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:359][917]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:368][918]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:376][919]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:385][920]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:393][921]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:401][922]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:410][923]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:418][924]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:426][925]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:434][926]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:443][927]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:451][928]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:460][929]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:468][930]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:477][931]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:485][932]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:493][933]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:501][934]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:510][935]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:518][936]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:526][937]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:535][938]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:543][939]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:552][940]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:560][941]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:568][942]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:576][943]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:584][944]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:593][945]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:601][946]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:610][947]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:618][948]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:626][949]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:635][950]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:643][951]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:651][952]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:660][953]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:668][954]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:676][955]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:685][956]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:693][957]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:701][958]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:710][959]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:718][960]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:726][961]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:734][962]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:743][963]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:751][964]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:760][965]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:768][966]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:776][967]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:785][968]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:793][969]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:801][970]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:809][971]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:818][972]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:826][973]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:834][974]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:843][975]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:851][976]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:860][977]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:868][978]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:876][979]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:885][980]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:893][981]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:901][982]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:910][983]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:918][984]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:927][985]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:935][986]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:943][987]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:951][988]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:960][989]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:968][990]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:976][991]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:985][992]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.44:993][993]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:001][994]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:010][995]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:018][996]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:026][997]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:035][998]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:043][999]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:051][  0]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:060][  1]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:068][  2]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:077][  3]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:085][  4]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:093][  5]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:101][  6]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:110][  7]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:118][  8]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:126][  9]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:135][ 10]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:143][ 11]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:151][ 12]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:159][ 13]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:168][ 14]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:176][ 15]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:185][ 16]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:193][ 17]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:201][ 18]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:210][ 19]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:218][ 20]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:226][ 21]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:234][ 22]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:243][ 23]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:251][ 24]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:259][ 25]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:268][ 26]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:276][ 27]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:285][ 28]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:293][ 29]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:301][ 30]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:310][ 31]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:318][ 32]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:326][ 33]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:335][ 34]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:343][ 35]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:351][ 36]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:359][ 37]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:368][ 38]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:376][ 39]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:385][ 40]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:393][ 41]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:401][ 42]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:410][ 43]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:418][ 44]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:426][ 45]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:435][ 46]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:443][ 47]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:451][ 48]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:460][ 49]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:468][ 50]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:477][ 51]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:485][ 52]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:493][ 53]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:501][ 54]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:510][ 55]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:518][ 56]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:526][ 57]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:535][ 58]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:543][ 59]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:551][ 60]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:560][ 61]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:568][ 62]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:576][ 63]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:585][ 64]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:593][ 65]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:601][ 66]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:609][ 67]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:618][ 68]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:626][ 69]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:635][ 70]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:643][ 71]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:651][ 72]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:659][ 73]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:668][ 74]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:676][ 75]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:685][ 76]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:693][ 77]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:701][ 78]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:709][ 79]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:718][ 80]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:726][ 81]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:735][ 82]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:743][ 83]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:751][ 84]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:760][ 85]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:768][ 86]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:776][ 87]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:785][ 88]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:793][ 89]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:801][ 90]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:810][ 91]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:818][ 92]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:826][ 93]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:834][ 94]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:843][ 95]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:851][ 96]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:860][ 97]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:868][ 98]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:877][ 99]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:885][100]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:893][101]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:901][102]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:909][103]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:918][104]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:926][105]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:935][106]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:943][107]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:951][108]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:959][109]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:968][110]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:976][111]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:985][112]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.45:993][113]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:001][114]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:009][115]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:018][116]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:026][117]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:035][118]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:043][119]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:051][120]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:060][121]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:068][122]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:076][123]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:084][124]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:093][125]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:101][126]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:110][127]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:118][128]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:126][129]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:135][130]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:143][131]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:151][132]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:159][133]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:168][134]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:176][135]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:185][136]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:193][137]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:201][138]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:210][139]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:218][140]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:226][141]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:235][142]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:243][143]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:251][144]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:260][145]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:268][146]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:276][147]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:285][148]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:293][149]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:301][150]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:309][151]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:318][152]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:326][153]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:335][154]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:343][155]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:351][156]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:360][157]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:368][158]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:376][159]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:385][160]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:393][161]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:401][162]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:410][163]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:418][164]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:426][165]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:435][166]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:443][167]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:451][168]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:460][169]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:468][170]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:476][171]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:485][172]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:493][173]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:501][174]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:510][175]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:518][176]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:526][177]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:534][178]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:543][179]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:551][180]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:560][181]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:568][182]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:576][183]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:584][184]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:593][185]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:601][186]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:609][187]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:618][188]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:626][189]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:635][190]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:643][191]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:651][192]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:659][193]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:668][194]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:676][195]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:684][196]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:693][197]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:701][198]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:710][199]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:718][200]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:726][201]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:735][202]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:743][203]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:751][204]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:760][205]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:768][206]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:776][207]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:785][208]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:793][209]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:801][210]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:809][211]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:818][212]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:826][213]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:835][214]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:843][215]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:851][216]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:859][217]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:868][218]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:876][219]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:885][220]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:893][221]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:901][222]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:910][223]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:918][224]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:926][225]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:934][226]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:943][227]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:951][228]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:960][229]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:968][230]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:976][231]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:985][232]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.46:993][233]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:001][234]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:009][235]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:018][236]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:026][237]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:034][238]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:043][239]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:051][240]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:060][241]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:068][242]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:077][243]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:084][244]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:093][245]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:101][246]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:110][247]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:118][248]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:126][249]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:135][250]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:143][251]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:151][252]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:160][253]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:168][254]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:176][255]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:185][256]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:193][257]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:201][258]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:209][259]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:218][260]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:226][261]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:235][262]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:243][263]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:252][264]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:259][265]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:268][266]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:276][267]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:285][268]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:293][269]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:301][270]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:310][271]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:318][272]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:326][273]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:334][274]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:343][275]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:351][276]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:360][277]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:368][278]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:376][279]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:385][280]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:393][281]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:402][282]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:410][283]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:418][284]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:426][285]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:435][286]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:443][287]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:451][288]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:460][289]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:468][290]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:476][291]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:485][292]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:493][293]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:501][294]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:510][295]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:518][296]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:526][297]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:535][298]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:543][299]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:551][300]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:560][301]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:568][302]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:576][303]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:584][304]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:593][305]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:601][306]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:610][307]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:618][308]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:626][309]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:635][310]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:643][311]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:651][312]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:660][313]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:668][314]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:676][315]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:685][316]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:693][317]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:701][318]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:710][319]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:718][320]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:726][321]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:735][322]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:743][323]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:751][324]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:760][325]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:768][326]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:776][327]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:784][328]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:793][329]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:802][330]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:810][331]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:818][332]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:826][333]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:835][334]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:843][335]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:851][336]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:859][337]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:868][338]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:876][339]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:885][340]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:893][341]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:902][342]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:910][343]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:918][344]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:926][345]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:934][346]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:943][347]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:951][348]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:960][349]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:968][350]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:976][351]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:985][352]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.47:993][353]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:001][354]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:009][355]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:018][356]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:026][357]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:035][358]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:043][359]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:051][360]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:060][361]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:068][362]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:076][363]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:085][364]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:093][365]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:101][366]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:110][367]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:118][368]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:126][369]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:135][370]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:143][371]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:151][372]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:160][373]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:168][374]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:176][375]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:185][376]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:193][377]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:201][378]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:210][379]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:218][380]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:226][381]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:235][382]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:243][383]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:251][384]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:260][385]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:268][386]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:276][387]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:285][388]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:293][389]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:302][390]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:310][391]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:318][392]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:326][393]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:335][394]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:343][395]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:351][396]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:360][397]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:368][398]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:376][399]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:384][400]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:393][401]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:401][402]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:410][403]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:418][404]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:426][405]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:434][406]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:443][407]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:451][408]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:460][409]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:468][410]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:476][411]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:485][412]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:493][413]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:501][414]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:510][415]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:518][416]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:526][417]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:535][418]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:543][419]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:551][420]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:559][421]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:568][422]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:576][423]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:585][424]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:593][425]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:601][426]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:610][427]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:618][428]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:626][429]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:634][430]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:643][431]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:651][432]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:660][433]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:668][434]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:676][435]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:685][436]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:693][437]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:701][438]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:709][439]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:718][440]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:726][441]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:735][442]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:743][443]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:751][444]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:760][445]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:768][446]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:776][447]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:785][448]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:793][449]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:801][450]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:810][451]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:818][452]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:826][453]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:835][454]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:843][455]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:851][456]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:859][457]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:868][458]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:876][459]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:885][460]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:893][461]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:901][462]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:910][463]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:918][464]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:926][465]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:935][466]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:943][467]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:951][468]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:960][469]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:968][470]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:976][471]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:985][472]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.48:993][473]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:001][474]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:010][475]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:018][476]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:026][477]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:035][478]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:043][479]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:051][480]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:060][481]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:068][482]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:076][483]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:085][484]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:093][485]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:101][486]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:110][487]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:118][488]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:126][489]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:135][490]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:143][491]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:151][492]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:160][493]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:168][494]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:176][495]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:185][496]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:193][497]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:201][498]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:210][499]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:218][500]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:226][501]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:235][502]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:243][503]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:251][504]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:260][505]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:268][506]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:276][507]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:285][508]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:293][509]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:301][510]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:310][511]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:318][512]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:327][513]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:335][514]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:343][515]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:351][516]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:359][517]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:368][518]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:376][519]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:385][520]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:393][521]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:401][522]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:410][523]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:418][524]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:426][525]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:435][526]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:443][527]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:451][528]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:460][529]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:468][530]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:476][531]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:485][532]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:493][533]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:501][534]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:509][535]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:518][536]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:527][537]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:535][538]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:543][539]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:551][540]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:560][541]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:568][542]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:576][543]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:585][544]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:593][545]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:601][546]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:610][547]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:618][548]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:626][549]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:634][550]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:643][551]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:651][552]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:660][553]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:668][554]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:676][555]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:685][556]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:693][557]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:701][558]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:709][559]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:718][560]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:726][561]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:735][562]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:743][563]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:751][564]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:760][565]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:768][566]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:776][567]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:785][568]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:793][569]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:801][570]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:810][571]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:818][572]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:826][573]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:835][574]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:843][575]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:851][576]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:859][577]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:868][578]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:876][579]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:885][580]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:893][581]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:901][582]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:910][583]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:918][584]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:926][585]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:935][586]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:943][587]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:951][588]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:960][589]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:968][590]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:976][591]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:985][592]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.49:993][593]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:001][594]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:010][595]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:018][596]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:026][597]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:034][598]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:043][599]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:051][600]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:060][601]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:068][602]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:076][603]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:085][604]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:093][605]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:101][606]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:110][607]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:118][608]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:126][609]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:134][610]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:143][611]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:151][612]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:160][613]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:168][614]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:177][615]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:185][616]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:193][617]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:201][618]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:209][619]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:218][620]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:226][621]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:235][622]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:243][623]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:251][624]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:260][625]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:268][626]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:276][627]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:284][628]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:293][629]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:301][630]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:310][631]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:318][632]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:326][633]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:335][634]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:343][635]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:351][636]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:360][637]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:368][638]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:376][639]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:385][640]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:393][641]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:401][642]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:410][643]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:418][644]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:427][645]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:435][646]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:443][647]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:451][648]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:460][649]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:468][650]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:476][651]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:485][652]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:493][653]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:501][654]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:509][655]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:518][656]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:526][657]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:535][658]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:543][659]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:551][660]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:560][661]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:568][662]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:576][663]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:585][664]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:593][665]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:601][666]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:609][667]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:618][668]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:626][669]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:635][670]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:643][671]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:651][672]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:660][673]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:668][674]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:676][675]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:685][676]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:693][677]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:701][678]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:710][679]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:718][680]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:726][681]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:735][682]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:743][683]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:751][684]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:759][685]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:768][686]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:776][687]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:785][688]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:793][689]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:801][690]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:809][691]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:818][692]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:826][693]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:835][694]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:843][695]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:851][696]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:860][697]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:868][698]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:876][699]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:885][700]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:893][701]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:901][702]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:910][703]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:918][704]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:926][705]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:935][706]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:943][707]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:951][708]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:960][709]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:968][710]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:976][711]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:985][712]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.50:993][713]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:001][714]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:010][715]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:018][716]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:026][717]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:034][718]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:043][719]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:051][720]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:060][721]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:068][722]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:076][723]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:085][724]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:093][725]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:101][726]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:110][727]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:118][728]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:126][729]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:135][730]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:143][731]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:152][732]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:159][733]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:168][734]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:176][735]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:185][736]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:193][737]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:201][738]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:210][739]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:218][740]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:226][741]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:235][742]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:243][743]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:251][744]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:259][745]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:268][746]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:276][747]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:285][748]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:293][749]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:301][750]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:310][751]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:318][752]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:326][753]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:335][754]LogTemp: Warning: Actor´s name: ShipPlayer_2
+[2023.08.24-01.30.51:376][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-01.30.51:376][754]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.24-01.30.51:376][754]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.08.24-01.30.51:376][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.24-01.30.51:386][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.24-01.30.51:388][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.24-01.30.51:391][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.24-01.30.51:391][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.24-01.30.51:392][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.08.24-01.30.51:393][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-01.30.51:394][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.24-01.30.51:442][758]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.08.24-01.35.02:792][618]LogHotReload: New module detected: UE4Editor-AsteroidRemake-0087.dll
+[2023.08.24-01.35.03:137][620]LogHotReload: Starting Hot-Reload from IDE
+[2023.08.24-01.35.03:170][620]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AsteroidRemake' in 0.0002 seconds. Added 3 classes and 2 folders.
+[2023.08.24-01.35.03:171][620]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2023.08.24-01.35.03:205][620]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3825 classes and 930 folders.
+[2023.08.24-01.35.03:208][620]Display: HotReload took  0.1s.
+[2023.08.24-01.35.13:110][269]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.08.24-01.35.15:659][563]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.24-01.35.15:663][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.24-01.35.15:663][563]PIE: New page: PIE session: Minimal_Default (Aug 23, 2023, 7:35:15 PM)
+[2023.08.24-01.35.15:696][563]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.24-01.35.15:697][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2023.08.24-01.35.15:698][563]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.24-01.35.15:698][563]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2023.08.24-01.35.15:698][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002651s)
+[2023.08.24-01.35.15:702][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.24-01.35.15:703][563]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.24-01.35.15:703][563]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.24-01.35.15:703][563]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.24-01.35.15:703][563]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.24-01.35.15:703][563]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.24-01.35.15:703][563]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.24-01.35.15:706][563]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.24-01.35.15:706][563]LogAudioMixer: Display: 1: FrontRight
+[2023.08.24-01.35.15:713][563]LogAudioMixer: Display: Using Audio Device Fone de ouvido do headset (Razer Kraken 7.1 V2)
+[2023.08.24-01.35.15:713][563]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.24-01.35.15:713][563]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.24-01.35.15:713][563]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.24-01.35.15:714][563]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.24-01.35.15:714][563]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.08.24-01.35.15:714][563]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.08.24-01.35.15:714][563]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.08.24-01.35.15:714][563]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.08.24-01.35.15:714][563]LogInit: FAudioDevice initialized.
+[2023.08.24-01.35.15:714][563]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2023.08.24-01.35.15:724][563]LogLoad: Game class is 'GameModeBase'
+[2023.08.24-01.35.15:724][563]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.08.23-22.35.15
+[2023.08.24-01.35.15:725][563]LogWorld: Bringing up level for play took: 0.000556
+[2023.08.24-01.35.15:725][563]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.08.24-01.35.15:726][563]PIE: Server logged in
+[2023.08.24-01.35.15:727][563]PIE: Play in editor total start time 0.065 seconds.

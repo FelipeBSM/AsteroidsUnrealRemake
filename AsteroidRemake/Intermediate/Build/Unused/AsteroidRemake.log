@@ -1,0 +1,11 @@
+﻿  Building AsteroidRemakeEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] BigAsteroid.cpp
+    [2/4] UE4Editor-AsteroidRemake-0152.lib
+       Criando biblioteca C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\UE4Editor-AsteroidRemake-0152.lib e objeto C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\UE4Editor-AsteroidRemake-0152.exp
+    [3/4] UE4Editor-AsteroidRemake-0152.dll
+       Criando biblioteca C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\UE4Editor-AsteroidRemake-0152.suppressed.lib e objeto C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\UE4Editor-AsteroidRemake-0152.suppressed.exp
+    [4/4] AsteroidRemakeEditor.target
+  Total time in Parallel executor: 1,23 seconds
+  Total execution time: 1,72 seconds

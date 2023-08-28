@@ -1,0 +1,5 @@
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Definitions.AsteroidRemake.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\FORTNITE\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake/ObjectTeleportComponent.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\ObjectTeleportComponent.generated.h

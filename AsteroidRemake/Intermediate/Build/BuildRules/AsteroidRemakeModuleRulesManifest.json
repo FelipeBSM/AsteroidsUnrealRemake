@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\AsteroidRemake\\Source\\AsteroidRemake\\AsteroidRemake.Build.cs",
+		"C:\\Unreal Projects\\AsteroidRemake\\Source\\AsteroidRemake.Target.cs",
+		"C:\\Unreal Projects\\AsteroidRemake\\Source\\AsteroidRemakeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

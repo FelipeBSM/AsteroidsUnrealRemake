@@ -1,0 +1,3 @@
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Development\AsteroidRemake\Definitions.AsteroidRemake.h
+C:\Unreal Projects\AsteroidRemake\Source\AsteroidRemake\BoundsTeleportComponent.h
+C:\Unreal Projects\AsteroidRemake\Intermediate\Build\Win64\UE4Editor\Inc\AsteroidRemake\BoundsTeleportComponent.generated.h
